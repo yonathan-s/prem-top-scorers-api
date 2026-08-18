@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "firstName": "Viktor",
+    "lastName": "Gyokeres",
+    "team": "Arsenal",
+    "goals": 14,
+    "rankInTeam": 1
+  },
+  {
+    "id": 2,
+    "firstName": "Bukayo",
+    "lastName": "Saka",
+    "team": "Arsenal",
+    "goals": 7,
+    "rankInTeam": 2
+  },
+  {
+    "id": 3,
+    "firstName": "Eberechi",
+    "lastName": "Eze",
+    "team": "Arsenal",
+    "goals": 7,
+    "rankInTeam": 3
+  },
+  {
+    "id": 4,
+    "firstName": "Leandro",
+    "lastName": "Trossard",
+    "team": "Arsenal",
+    "goals": 6,
+    "rankInTeam": 4
+  },
+  {
+    "id": 5,
+    "firstName": "Martín",
+    "lastName": "Zubimendi",
+    "team": "Arsenal",
+    "goals": 5,
+    "rankInTeam": 5
+  },
+  {
+    "id": 6,
+    "firstName": "Ollie",
+    "lastName": "Watkins",
+    "team": "Aston Villa",
+    "goals": 16,
+    "rankInTeam": 1
+  },
+  {
+    "id": 7,
+    "firstName": "Morgan",
+    "lastName": "Rogers",
+    "team": "Aston Villa",
+    "goals": 10,
+    "rankInTeam": 2
+  },
+  {
+    "id": 8,
+    "firstName": "Emiliano",
+    "lastName": "Buendía",
+    "team": "Aston Villa",
+    "goals": 6,
+    "rankInTeam": 3
+  },
+  {
+    "id": 9,
+    "firstName": "John",
+    "lastName": "McGinn",
+    "team": "Aston Villa",
+    "goals": 5,
+    "rankInTeam": 4
+  },
+  {
+    "id": 10,
+    "firstName": "Donyell",
+    "lastName": "Malen",
+    "team": "Aston Villa",
+    "goals": 4,
+    "rankInTeam": 5
+  },
+  {
+    "id": 11,
+    "firstName": "Eli",
+    "lastName": "Junior Kroupi",
+    "team": "Bournemouth",
+    "goals": 13,
+    "rankInTeam": 1
+  },
+  {
+    "id": 12,
+    "firstName": "Antoine",
+    "lastName": "Semenyo",
+    "team": "Bournemouth",
+    "goals": 10,
+    "rankInTeam": 2
+  },
+  {
+    "id": 13,
+    "firstName": "Marcus",
+    "lastName": "Tavernier",
+    "team": "Bournemouth",
+    "goals": 7,
+    "rankInTeam": 3
+  },
+  {
+    "id": 14,
+    "firstName": "Evanilson",
+    "lastName": "",
+    "team": "Bournemouth",
+    "goals": 6,
+    "rankInTeam": 4
+  },
+  {
+    "id": 15,
+    "firstName": "Rayan",
+    "lastName": "",
+    "team": "Bournemouth",
+    "goals": 5,
+    "rankInTeam": 5
+  },
+  {
+    "id": 16,
+    "firstName": "Igor",
+    "lastName": "Thiago",
+    "team": "Brentford",
+    "goals": 22,
+    "rankInTeam": 1
+  },
+  {
+    "id": 17,
+    "firstName": "Kevin",
+    "lastName": "Schade",
+    "team": "Brentford",
+    "goals": 8,
+    "rankInTeam": 2
+  },
+  {
+    "id": 18,
+    "firstName": "Dango",
+    "lastName": "Ouattara",
+    "team": "Brentford",
+    "goals": 7,
+    "rankInTeam": 3
+  },
+  {
+    "id": 19,
+    "firstName": "Mikkel",
+    "lastName": "Damsgaard",
+    "team": "Brentford",
+    "goals": 4,
+    "rankInTeam": 4
+  },
+  {
+    "id": 20,
+    "firstName": "Mathias",
+    "lastName": "Jensen",
+    "team": "Brentford",
+    "goals": 3,
+    "rankInTeam": 5
+  },
+  {
+    "id": 21,
+    "firstName": "Danny",
+    "lastName": "Welbeck",
+    "team": "Brighton & Hove Albion",
+    "goals": 13,
+    "rankInTeam": 1
+  },
+  {
+    "id": 22,
+    "firstName": "Diego",
+    "lastName": "Gómez",
+    "team": "Brighton & Hove Albion",
+    "goals": 5,
+    "rankInTeam": 2
+  },
+  {
+    "id": 23,
+    "firstName": "Jack",
+    "lastName": "Hinshelwood",
+    "team": "Brighton & Hove Albion",
+    "goals": 4,
+    "rankInTeam": 3
+  },
+  {
+    "id": 24,
+    "firstName": "Georginio",
+    "lastName": "Rutter",
+    "team": "Brighton & Hove Albion",
+    "goals": 3,
+    "rankInTeam": 4
+  },
+  {
+    "id": 25,
+    "firstName": "Jan",
+    "lastName": "Paul van Hecke",
+    "team": "Brighton & Hove Albion",
+    "goals": 3,
+    "rankInTeam": 5
+  },
+  {
+    "id": 26,
+    "firstName": "Zian",
+    "lastName": "Flemming",
+    "team": "Burnley",
+    "goals": 11,
+    "rankInTeam": 1
+  },
+  {
+    "id": 27,
+    "firstName": "Jaidon",
+    "lastName": "Anthony",
+    "team": "Burnley",
+    "goals": 8,
+    "rankInTeam": 2
+  },
+  {
+    "id": 28,
+    "firstName": "Lesley",
+    "lastName": "Ugochukwu",
+    "team": "Burnley",
+    "goals": 3,
+    "rankInTeam": 3
+  },
+  {
+    "id": 29,
+    "firstName": "Lyle",
+    "lastName": "Foster",
+    "team": "Burnley",
+    "goals": 3,
+    "rankInTeam": 4
+  },
+  {
+    "id": 30,
+    "firstName": "Josh",
+    "lastName": "Cullen",
+    "team": "Burnley",
+    "goals": 2,
+    "rankInTeam": 5
+  },
+  {
+    "id": 31,
+    "firstName": "João",
+    "lastName": "Pedro",
+    "team": "Chelsea",
+    "goals": 15,
+    "rankInTeam": 1
+  },
+  {
+    "id": 32,
+    "firstName": "Enzo",
+    "lastName": "Fernández",
+    "team": "Chelsea",
+    "goals": 10,
+    "rankInTeam": 2
+  },
+  {
+    "id": 33,
+    "firstName": "Cole",
+    "lastName": "Palmer",
+    "team": "Chelsea",
+    "goals": 10,
+    "rankInTeam": 3
+  },
+  {
+    "id": 34,
+    "firstName": "Pedro",
+    "lastName": "Neto",
+    "team": "Chelsea",
+    "goals": 5,
+    "rankInTeam": 4
+  },
+  {
+    "id": 35,
+    "firstName": "Moisés",
+    "lastName": "Caicedo",
+    "team": "Chelsea",
+    "goals": 3,
+    "rankInTeam": 5
+  },
+  {
+    "id": 36,
+    "firstName": "Jean-Philippe",
+    "lastName": "Mateta",
+    "team": "Crystal Palace",
+    "goals": 12,
+    "rankInTeam": 1
+  },
+  {
+    "id": 37,
+    "firstName": "Ismaïla",
+    "lastName": "Sarr",
+    "team": "Crystal Palace",
+    "goals": 9,
+    "rankInTeam": 2
+  },
+  {
+    "id": 38,
+    "firstName": "Daniel",
+    "lastName": "Muñoz",
+    "team": "Crystal Palace",
+    "goals": 4,
+    "rankInTeam": 3
+  },
+  {
+    "id": 39,
+    "firstName": "Jørgen",
+    "lastName": "Strand Larsen",
+    "team": "Crystal Palace",
+    "goals": 4,
+    "rankInTeam": 4
+  },
+  {
+    "id": 40,
+    "firstName": "Brennan",
+    "lastName": "Johnson",
+    "team": "Crystal Palace",
+    "goals": 2,
+    "rankInTeam": 5
+  },
+  {
+    "id": 41,
+    "firstName": "Beto",
+    "lastName": "",
+    "team": "Everton",
+    "goals": 9,
+    "rankInTeam": 1
+  },
+  {
+    "id": 42,
+    "firstName": "Kiernan",
+    "lastName": "Dewsbury-Hall",
+    "team": "Everton",
+    "goals": 8,
+    "rankInTeam": 2
+  },
+  {
+    "id": 43,
+    "firstName": "Thierno",
+    "lastName": "Barry",
+    "team": "Everton",
+    "goals": 8,
+    "rankInTeam": 3
+  },
+  {
+    "id": 44,
+    "firstName": "Iliman",
+    "lastName": "Ndiaye",
+    "team": "Everton",
+    "goals": 6,
+    "rankInTeam": 4
+  },
+  {
+    "id": 45,
+    "firstName": "Michael",
+    "lastName": "Keane",
+    "team": "Everton",
+    "goals": 3,
+    "rankInTeam": 5
+  },
+  {
+    "id": 46,
+    "firstName": "Harry",
+    "lastName": "Wilson",
+    "team": "Fulham",
+    "goals": 10,
+    "rankInTeam": 1
+  },
+  {
+    "id": 47,
+    "firstName": "Raúl",
+    "lastName": "Jiménez",
+    "team": "Fulham",
+    "goals": 9,
+    "rankInTeam": 2
+  },
+  {
+    "id": 48,
+    "firstName": "Alex",
+    "lastName": "Iwobi",
+    "team": "Fulham",
+    "goals": 4,
+    "rankInTeam": 3
+  },
+  {
+    "id": 49,
+    "firstName": "Emile",
+    "lastName": "Smith Rowe",
+    "team": "Fulham",
+    "goals": 3,
+    "rankInTeam": 4
+  },
+  {
+    "id": 50,
+    "firstName": "Ryan",
+    "lastName": "Sessegnon",
+    "team": "Fulham",
+    "goals": 3,
+    "rankInTeam": 5
+  },
+  {
+    "id": 51,
+    "firstName": "Dominic",
+    "lastName": "Calvert-Lewin",
+    "team": "Leeds United",
+    "goals": 14,
+    "rankInTeam": 1
+  },
+  {
+    "id": 52,
+    "firstName": "Noah",
+    "lastName": "Okafor",
+    "team": "Leeds United",
+    "goals": 8,
+    "rankInTeam": 2
+  },
+  {
+    "id": 53,
+    "firstName": "Lukas",
+    "lastName": "Nmecha",
+    "team": "Leeds United",
+    "goals": 6,
+    "rankInTeam": 3
+  },
+  {
+    "id": 54,
+    "firstName": "Anton",
+    "lastName": "Stach",
+    "team": "Leeds United",
+    "goals": 5,
+    "rankInTeam": 4
+  },
+  {
+    "id": 55,
+    "firstName": "Brenden",
+    "lastName": "Aaronson",
+    "team": "Leeds United",
+    "goals": 4,
+    "rankInTeam": 5
+  },
+  {
+    "id": 56,
+    "firstName": "Hugo",
+    "lastName": "Ekitiké",
+    "team": "Liverpool",
+    "goals": 11,
+    "rankInTeam": 1
+  },
+  {
+    "id": 57,
+    "firstName": "Cody",
+    "lastName": "Gakpo",
+    "team": "Liverpool",
+    "goals": 7,
+    "rankInTeam": 2
+  },
+  {
+    "id": 58,
+    "firstName": "Mohamed",
+    "lastName": "Salah",
+    "team": "Liverpool",
+    "goals": 7,
+    "rankInTeam": 3
+  },
+  {
+    "id": 59,
+    "firstName": "Dominik",
+    "lastName": "Szoboszlai",
+    "team": "Liverpool",
+    "goals": 6,
+    "rankInTeam": 4
+  },
+  {
+    "id": 60,
+    "firstName": "Virgil",
+    "lastName": "van Dijk",
+    "team": "Liverpool",
+    "goals": 6,
+    "rankInTeam": 5
+  },
+  {
+    "id": 61,
+    "firstName": "Erling",
+    "lastName": "Haaland",
+    "team": "Manchester City",
+    "goals": 27,
+    "rankInTeam": 1
+  },
+  {
+    "id": 62,
+    "firstName": "Antoine",
+    "lastName": "Semenyo",
+    "team": "Manchester City",
+    "goals": 17,
+    "rankInTeam": 2
+  },
+  {
+    "id": 63,
+    "firstName": "Phil",
+    "lastName": "Foden",
+    "team": "Manchester City",
+    "goals": 7,
+    "rankInTeam": 3
+  },
+  {
+    "id": 64,
+    "firstName": "Jérémy",
+    "lastName": "Doku",
+    "team": "Manchester City",
+    "goals": 5,
+    "rankInTeam": 4
+  },
+  {
+    "id": 65,
+    "firstName": "Nico",
+    "lastName": "O'Reilly",
+    "team": "Manchester City",
+    "goals": 5,
+    "rankInTeam": 5
+  },
+  {
+    "id": 66,
+    "firstName": "Benjamin",
+    "lastName": "Šeško",
+    "team": "Manchester United",
+    "goals": 11,
+    "rankInTeam": 1
+  },
+  {
+    "id": 67,
+    "firstName": "Bryan",
+    "lastName": "Mbeumo",
+    "team": "Manchester United",
+    "goals": 11,
+    "rankInTeam": 2
+  },
+  {
+    "id": 68,
+    "firstName": "Matheus",
+    "lastName": "Cunha",
+    "team": "Manchester United",
+    "goals": 10,
+    "rankInTeam": 3
+  },
+  {
+    "id": 69,
+    "firstName": "Casemiro",
+    "lastName": "",
+    "team": "Manchester United",
+    "goals": 9,
+    "rankInTeam": 4
+  },
+  {
+    "id": 70,
+    "firstName": "Bruno",
+    "lastName": "Fernandes",
+    "team": "Manchester United",
+    "goals": 9,
+    "rankInTeam": 5
+  },
+  {
+    "id": 71,
+    "firstName": "Bruno",
+    "lastName": "Guimarães",
+    "team": "Newcastle United",
+    "goals": 9,
+    "rankInTeam": 1
+  },
+  {
+    "id": 72,
+    "firstName": "Nick",
+    "lastName": "Woltemade",
+    "team": "Newcastle United",
+    "goals": 8,
+    "rankInTeam": 2
+  },
+  {
+    "id": 73,
+    "firstName": "Harvey",
+    "lastName": "Barnes",
+    "team": "Newcastle United",
+    "goals": 7,
+    "rankInTeam": 3
+  },
+  {
+    "id": 74,
+    "firstName": "William",
+    "lastName": "Osula",
+    "team": "Newcastle United",
+    "goals": 7,
+    "rankInTeam": 4
+  },
+  {
+    "id": 75,
+    "firstName": "Anthony",
+    "lastName": "Gordon",
+    "team": "Newcastle United",
+    "goals": 6,
+    "rankInTeam": 5
+  },
+  {
+    "id": 76,
+    "firstName": "Morgan",
+    "lastName": "Gibbs-White",
+    "team": "Nottingham Forest",
+    "goals": 15,
+    "rankInTeam": 1
+  },
+  {
+    "id": 77,
+    "firstName": "Igor",
+    "lastName": "Jesus",
+    "team": "Nottingham Forest",
+    "goals": 6,
+    "rankInTeam": 2
+  },
+  {
+    "id": 78,
+    "firstName": "Taiwo",
+    "lastName": "Awoniyi",
+    "team": "Nottingham Forest",
+    "goals": 4,
+    "rankInTeam": 3
+  },
+  {
+    "id": 79,
+    "firstName": "Elliot",
+    "lastName": "Anderson",
+    "team": "Nottingham Forest",
+    "goals": 4,
+    "rankInTeam": 4
+  },
+  {
+    "id": 80,
+    "firstName": "Callum",
+    "lastName": "Hudson-Odoi",
+    "team": "Nottingham Forest",
+    "goals": 3,
+    "rankInTeam": 5
+  },
+  {
+    "id": 81,
+    "firstName": "Brian",
+    "lastName": "Brobbey",
+    "team": "Sunderland",
+    "goals": 7,
+    "rankInTeam": 1
+  },
+  {
+    "id": 82,
+    "firstName": "Wilson",
+    "lastName": "Isidor",
+    "team": "Sunderland",
+    "goals": 6,
+    "rankInTeam": 2
+  },
+  {
+    "id": 83,
+    "firstName": "Enzo",
+    "lastName": "Le Fée",
+    "team": "Sunderland",
+    "goals": 5,
+    "rankInTeam": 3
+  },
+  {
+    "id": 84,
+    "firstName": "Chemsdine",
+    "lastName": "Talbi",
+    "team": "Sunderland",
+    "goals": 4,
+    "rankInTeam": 4
+  },
+  {
+    "id": 85,
+    "firstName": "Nordi",
+    "lastName": "Mukiele",
+    "team": "Sunderland",
+    "goals": 3,
+    "rankInTeam": 5
+  },
+  {
+    "id": 86,
+    "firstName": "Richarlison",
+    "lastName": "",
+    "team": "Tottenham Hotspur",
+    "goals": 11,
+    "rankInTeam": 1
+  },
+  {
+    "id": 87,
+    "firstName": "João",
+    "lastName": "Palhinha",
+    "team": "Tottenham Hotspur",
+    "goals": 5,
+    "rankInTeam": 2
+  },
+  {
+    "id": 88,
+    "firstName": "Cristian",
+    "lastName": "Romero",
+    "team": "Tottenham Hotspur",
+    "goals": 4,
+    "rankInTeam": 3
+  },
+  {
+    "id": 89,
+    "firstName": "Mathys",
+    "lastName": "Tel",
+    "team": "Tottenham Hotspur",
+    "goals": 4,
+    "rankInTeam": 4
+  },
+  {
+    "id": 90,
+    "firstName": "Micky",
+    "lastName": "van de Ven",
+    "team": "Tottenham Hotspur",
+    "goals": 4,
+    "rankInTeam": 5
+  },
+  {
+    "id": 91,
+    "firstName": "Jarrod",
+    "lastName": "Bowen",
+    "team": "West Ham United",
+    "goals": 9,
+    "rankInTeam": 1
+  },
+  {
+    "id": 92,
+    "firstName": "Callum",
+    "lastName": "Wilson",
+    "team": "West Ham United",
+    "goals": 7,
+    "rankInTeam": 2
+  },
+  {
+    "id": 93,
+    "firstName": "Valentín",
+    "lastName": "Castellanos",
+    "team": "West Ham United",
+    "goals": 6,
+    "rankInTeam": 3
+  },
+  {
+    "id": 94,
+    "firstName": "Crysencio",
+    "lastName": "Summerville",
+    "team": "West Ham United",
+    "goals": 5,
+    "rankInTeam": 4
+  },
+  {
+    "id": 95,
+    "firstName": "Tomáš",
+    "lastName": "Souček",
+    "team": "West Ham United",
+    "goals": 5,
+    "rankInTeam": 5
+  },
+  {
+    "id": 96,
+    "firstName": "Mateus",
+    "lastName": "Mané",
+    "team": "Wolverhampton Wanderers",
+    "goals": 3,
+    "rankInTeam": 1
+  },
+  {
+    "id": 97,
+    "firstName": "Rodrigo",
+    "lastName": "Gomes",
+    "team": "Wolverhampton Wanderers",
+    "goals": 3,
+    "rankInTeam": 2
+  },
+  {
+    "id": 98,
+    "firstName": "Santiago",
+    "lastName": "Bueno",
+    "team": "Wolverhampton Wanderers",
+    "goals": 3,
+    "rankInTeam": 3
+  },
+  {
+    "id": 99,
+    "firstName": "Tolu",
+    "lastName": "Arokodare",
+    "team": "Wolverhampton Wanderers",
+    "goals": 3,
+    "rankInTeam": 4
+  },
+  {
+    "id": 100,
+    "firstName": "Ladislav",
+    "lastName": "Krejčí",
+    "team": "Wolverhampton Wanderers",
+    "goals": 2,
+    "rankInTeam": 5
+  }
+]
